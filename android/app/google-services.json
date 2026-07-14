@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317173284656",
+    "project_id": "starbucks-analiz",
+    "storage_bucket": "starbucks-analiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317173284656:android:73e8b95db81a08152252f5",
+        "android_client_info": {
+          "package_name": "com.example.akilli_kahve_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhqse32xgQTtYF4eI1pV7GfgPv-dCUMTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
