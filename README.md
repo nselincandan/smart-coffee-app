@@ -1,118 +1,147 @@
+<div align="center">
+
 # ☕ Smart Coffee App
 
-A modern Flutter-based mobile application developed as a graduation project. The application provides a smart coffee ordering experience with branch management, menu browsing, and order tracking features.
+### A Flutter-Based Smart Coffee Ordering Application
 
-## 📱 Overview
+Graduation Project • Flutter • Firebase • Google Maps
 
-Smart Coffee App is designed to improve the coffee ordering experience by allowing users to browse products, place orders, and interact with nearby coffee branches through a clean and user-friendly interface.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-API-4285F4?logo=googlemaps&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-success)
 
-## ✨ Features
+</div>
 
-- User authentication
-- Browse coffee menu by categories
-- Product details and pricing
-- Shopping cart management
-- Order placement
-- Branch listing
-- Interactive branch map
-- Order history
-- Modern and responsive UI
-- Cross-platform support (Android & iOS)
+---
 
-## 🛠️ Built With
+# 📖 About
 
-- **Flutter**
-- **Dart**
-- **Firebase**
-- **Google Maps API**
-- **Material Design**
+**Smart Coffee App** is a mobile application developed as a **Management Information Systems Graduation Project** using Flutter.
 
-## 📂 Project Structure
+The application enhances the coffee ordering experience by allowing users to browse products, manage their cart, place orders, explore coffee branches, and navigate through an interactive map with a modern and user-friendly interface.
 
-```
+---
+
+# ✨ Features
+
+- 🔐 User Authentication
+- ☕ Coffee Menu
+- 🛒 Shopping Cart
+- 📦 Order Management
+- ❤️ Favorite Products
+- 📍 Coffee Branch Locator
+- 🗺️ Google Maps Integration
+- 🔍 Product Categories
+- 📱 Responsive UI
+- ⚡ Fast Navigation
+- 📋 Order History
+- 👤 User Profile
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Mobile Development |
+| Dart | Programming Language |
+| Firebase | Backend Services |
+| Google Maps API | Branch Locations |
+| Material Design | User Interface |
+
+---
+
+# 📂 Project Structure
+
+```text
 lib/
+├── models/
 ├── screens/
 ├── widgets/
-├── models/
 ├── services/
 ├── firebase/
+├── utils/
 └── main.dart
+
+android/
+ios/
+assets/
 ```
 
-> *The structure may vary depending on the latest project version.*
+---
 
-## 🚀 Getting Started
+# 🚀 Installation
 
-### Prerequisites
-
-- Flutter SDK
-- Dart SDK
-- Android Studio or VS Code
-- Firebase project configuration
-
-### Installation
-
-1. Clone the repository.
+Clone the repository
 
 ```bash
 git clone https://github.com/nselincandan/smart-coffee-app.git
 ```
 
-2. Navigate to the project directory.
+Go to the project
 
 ```bash
 cd smart-coffee-app
 ```
 
-3. Install dependencies.
+Install packages
 
 ```bash
 flutter pub get
 ```
 
-4. Run the application.
+Run the application
 
 ```bash
 flutter run
 ```
 
-## 📸 Screenshots
-
-You can add screenshots of the application here.
-
-| Home | Menu | Cart |
-|------|------|------|
-| *(Add image)* | *(Add image)* | *(Add image)* |
-
 ---
 
-## 🎯 Project Goals
+# 🎯 Project Objectives
 
 - Improve customer ordering experience
 - Reduce waiting times
-- Provide smart branch management
-- Deliver a modern and intuitive user interface
-- Support efficient coffee shop operations
+- Simplify coffee ordering
+- Provide branch navigation
+- Deliver a modern mobile interface
+- Improve operational efficiency
 
-## 📈 Future Improvements
+---
 
-- Online payment integration
-- Push notifications
-- Loyalty and rewards system
-- Dark mode
-- AI-based drink recommendations
-- Multi-language support
+# 🚀 Future Improvements
 
-## 👩‍💻 Developer
+- 💳 Online Payment
+- 🔔 Push Notifications
+- 🎁 Loyalty Program
+- 🌙 Dark Mode
+- 🤖 AI Drink Recommendation
+- 🌍 Multi-language Support
+- 📊 Sales Analytics
+
+---
+
+# 📷 Application Preview
+
+> Screenshots will be added soon.
+
+---
+
+# 👩‍💻 Developer
 
 **Selin Candan**
 
 Management Information Systems Graduate
 
-GitHub: https://github.com/nselincandan
+GitHub:
+https://github.com/nselincandan
 
 ---
 
-## 📄 License
+# 📄 License
 
 This project was developed for educational and portfolio purposes.
+
+© 2026 Selin Candan
